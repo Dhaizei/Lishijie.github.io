@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 University：Beijing Institute of Petrochemical Technology <br>
-
 Major： Control Science and Engineering
 
 Education
 ======
 2021.09 - 2024.07   Beijing Institute of Petrochemical Technology    Artificial Intelligence Research Institute    Control Science and Engineering    Master <br>
-
 2017.09 - 2021.06   Tian Jin Cheng Jian University    Institute of Control and Mechanical Engineering    Building Electrical and Intelligentization    Bachelor<br>
 
 Skills 
