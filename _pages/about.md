@@ -22,5 +22,5 @@ labeling, entity recognition, and text classification. Skilled in Python program
 
 Experience
 ------
-2023.08-2023.12          Thin Red Line<br>
-2023.03-2023.06          HiBug
+2023.08-2023.12   Thin Red Line<br>
+2023.03-2023.06   HiBug
